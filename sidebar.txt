@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ane:home|Door43 (ane)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ane|d43-ane repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ane/archive/master.zip|d43-ane.zip]]
+
+**Recent Changes**
+{{changes>ns = ane}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ane|Ethnologue data]]
+
